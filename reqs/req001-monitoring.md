@@ -50,15 +50,17 @@ Non-goals
 Background
 ----------
 
-The infrastructure has grown organically from a handful of large, general
-purpose physical hosts to an ever growing fleet of VMs running on an evolving
-virtualization platform.
+The environment our current solutions were designed for have changed radically.
+We have gone from managing a few, large systems to managing many, smaller
+systems built on top of a virtualization platform.
 
-As the infrastructure has changed, our monitoring solution has not. For example,
-the Unix and Windows/Cloud Team were historically two separate groups with
-independent tools. As the teams have merged, and the scopes of individuals begin
-to cross boundaries in infrastructure, the current model puts us at a
-disadvantage.
+From an organizational perspective, the Unix and Windows teams were at one time
+distinct groups that created solutions independantly, without thought to the
+others requirement.
+
+With the teams now merged into a single group, and with increasing cooperation
+and coordination within the group, we are increasingly finding examples of where
+a single system of reference for all aspects of monitoring 
 
 High Level Design
 -----------------
