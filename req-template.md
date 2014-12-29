@@ -1,10 +1,18 @@
 Title:
+
 Date:
+
 Author(s): *(add authors, please link to their email addresses)*
+
 Reviewer(s): *(add reviewers, please link to their email addresses)*
+
 Approver(s): *(add approvers, please link to their email addresses)*
+
 Revision Number:
+
 Status: *(draft, in review, approved, in progress)*
+
+---
 
 ## Executive Summary
 *(2-4 sentences explaining the project)*
