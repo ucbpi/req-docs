@@ -1,18 +1,25 @@
-Title:
+System Requirements: *(System Requirements #)*
 
 Date:
 
-Author(s): *(add authors, please link to their email addresses)*
+Author(s):
+ * John Smith <john.smith@example.com>
+ * Jane Smith <jane.smith@example.com>
 
-Reviewer(s): *(add reviewers, please link to their email addresses)*
+Reviewer(s):
+ * Jack Smith <jack.smith@example.com>
+ * Jennifer Smith <jennifer.smith@example.com>
 
-Approver(s): *(add approvers, please link to their email addresses)*
+Approver(s):
+ * Systems Group <sysops@example.com>
+ * Network Group <netops@example.com>
+ * Security Group <secops@example.com>
 
 Revision Number:
 
 Status: *(draft, in review, approved, in progress)*
 
----
+# Title
 
 ## Executive Summary
 *(2-4 sentences explaining the project)*
