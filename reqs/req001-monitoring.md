@@ -8,14 +8,19 @@
 
 ---
 
-# Monitoring System for Platforms & Infrastructure
+Monitoring System for Platforms & Infrastructure
+================================================
 
-## Executive Summary
+Executive Summary
+-----------------
+
 Create a monitoring system that provides real time alerting of issues,
 capability to be highly automated and provides an improved customer facing
 experience.
 
-## Goals
+Goals
+-----
+
 *Optional Requirements should be prepended with an '(O)'*
 * API access for automation by systems team and customers alike
   * RBAC support to allow customers access without compromising on security
@@ -35,12 +40,16 @@ experience.
   particular system. For example, [nagvis](http://www.nagvis.org/) or
   [RealOpInsight](http://realopinsight.com/).
 
-## Non-goals
+Non-goals
+---------
+
 * An all-in-one system for metric and alerting. If the metrics and graphing
   are built-in and do not take away from the alerting and monitoring features of
   the system it should be considered, but not a requirement for the system.
 
-## Background
+Background
+----------
+
 The infrastructure has grown organically from a handful of large, general
 purpose physical hosts to an ever growing fleet of VMs running on an evolving
 virtualization platform.
